@@ -200,9 +200,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 ---
-
-## 📊 Project Statistics
 <!--
+## 📊 Project Statistics
+
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/house-rent-prediction-model?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/house-rent-prediction-model?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/yourusername/house-rent-prediction-model?style=social)
