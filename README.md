@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Prashik Sawant**
 - 📧 Email: prashiksawant47@gmail.com
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Prashik Sawant](https://www.linkedin.com/in/prashik-sawant-ds)
 - 🌐 Portfolio: [https://prashiksawant.github.io/Portfolio/](https://prashiksawant.github.io/Portfolio/)
 - 📱 Phone: +91 9067049591
 
